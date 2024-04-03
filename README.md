@@ -1,1 +1,1 @@
-# QR_Code_Project
+Welcome to the QR Code Generator and Scanner project! This project aims to provide a user-friendly interface for generating and scanning QR codes. Below you'll find instructions on how to use and contribute to this project.
